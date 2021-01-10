@@ -43,7 +43,7 @@ if (md5($passinput) !== $password){
     }
 </style>
 <center>
-<b><font color = "red"><h1 style="background-color:green;">WELCOME TO THE CHRISTMAS CONTROL CENTRE | MADE BY QOLHF</h1></font></b>
+<b><font color = "red"><h1 style="background-color:green;">WELCOME TO THE CHRISTMAS CONTROL CENTRE | MADE BY CYPRESS</h1></font></b>
 <br><br>
 </center>
 <form method="post">
